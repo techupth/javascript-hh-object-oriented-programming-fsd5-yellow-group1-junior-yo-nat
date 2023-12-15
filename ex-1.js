@@ -25,4 +25,4 @@ class SMSNotification {
 let email1 = new EmailNotification(1, "15:12", "Hello", "hi");
 let sms1 = new SMSNotification(2, "15:12", "Hello", "0811111111");
 console.log(email1);
-console;
+console.log(sms1);
